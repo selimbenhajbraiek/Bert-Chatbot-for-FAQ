@@ -23,7 +23,7 @@ Just modify the context variable with your company information — and the chatb
 ⚡ Easy to customize — just replace the context variable
 
 ## Installation
-git clone https://github.com/<your-username>/faq-chatbot.git
+git clone https://github.com/selimbenhajbraiek/Bert-Chatbot-for-FAQ.git
 cd faq-chatbot
 
 pip install -r requirements.txt
